@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f2f2f2;
+  
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #ffc107;
+    margin: 0;
+  }
+  
+  h2 {
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    color: #777;
+    line-height: 1.5;
+  }
+  
+  ul {
+    color: #777;
+    padding-left: 20px;
+  }
+  
+  .info-section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .info-section:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .info-section:first-child {
+    margin-top: 0;
+  }
+  
+  .info-section:last-child {
+    margin-bottom: 0;
+  }
+  
+  .info-section h2 {
+    margin-top: 0;
+  }
+  
+  .info-section p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .info-section ul {
+    padding-left: 0;
+    margin-top: 10px;
+    list-style-type: none;
+  }
+  
+  .info-section ul li {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .info-section ul li:before {
+    content: "\2022";
+    position: absolute;
+    left: 0;
+    color: #555;
+  }
+  
+  .interests {
+    font-weight: bold;
+    color: #333;
+  }
+
+  
+
+.
